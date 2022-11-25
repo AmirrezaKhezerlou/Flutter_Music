@@ -10,7 +10,7 @@
    <application
         android:label="music_player"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/music">
         <activity
             android:name=".MainActivity"
             android:exported="true"
